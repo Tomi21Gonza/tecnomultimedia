@@ -1,0 +1,16 @@
+size(640,360);
+background(255);
+strokeWeight(2);
+fill(255,0,0);
+rectMode(CENTER);
+rect(50,50,320,70);
+fill(60,20,100);
+circle(200,200,90);
+fill(0,150,0,70);
+triangle(100,300,200,80,300,300);
+fill(0,0,200);
+ellipseMode(CORNER);
+ellipse(400,70,200,100);
+fill(0);
+textSize(100);
+text("hola",400,260);
